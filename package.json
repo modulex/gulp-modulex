@@ -1,6 +1,6 @@
 {
   "name": "gulp-modulex",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "yiminghe <yiminghe@gmail.com>",
   "engines": {
     "node": "~0.10"
@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/kissyteam/gulp-modulex.git"
+    "url": "http://github.com/modulex/gulp-modulex.git"
   },
   "dependencies": {
     "gulp-util": "^3.0.0",
